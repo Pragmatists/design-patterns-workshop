@@ -1,0 +1,3 @@
+[submodule "derive-a-pattern"]
+	path = derive-a-pattern
+	url = https://github.com/Pragmatists/derive-a-pattern.git
