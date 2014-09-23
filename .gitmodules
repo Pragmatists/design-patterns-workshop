@@ -17,3 +17,6 @@
 	path = composite-memory-implement
 	url = https://github.com/Pragmatists/tdd-a-pattern
 	branch = memory-implement
+[submodule "apply-a-pattern"]
+	path = apply-a-pattern
+	url = https://github.com/Pragmatists/apply-a-pattern.git
