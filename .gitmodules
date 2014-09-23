@@ -1,3 +1,19 @@
 [submodule "derive-a-pattern"]
 	path = derive-a-pattern
 	url = https://github.com/Pragmatists/derive-a-pattern.git
+[submodule "composite-hibernate-implement"]
+	path = composite-hibernate-implement
+	url = https://github.com/Pragmatists/tdd-a-pattern
+	branch = hibernate
+[submodule "composite-hibernate-tdd"]
+	path = composite-hibernate-tdd
+	url = https://github.com/Pragmatists/tdd-a-pattern
+	branch = hibernate-tdd
+[submodule "composite-memory-tdd"]
+	path = composite-memory-tdd
+	url = https://github.com/Pragmatists/tdd-a-pattern
+	branch = memory-tdd
+[submodule "composite-memory-implement"]
+	path = composite-memory-implement
+	url = https://github.com/Pragmatists/tdd-a-pattern
+	branch = memory-implement
